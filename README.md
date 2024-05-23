@@ -2,7 +2,7 @@
 
 Meu nome é Clara Borges✨
 
-- Estou estudando na Alura.
+- Estou estudando na [Alura](link)
 - Estou me desenvolvendo na Linguagem Javascript.
 - Gosto de desenhar e jogar.
 
