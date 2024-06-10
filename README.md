@@ -9,4 +9,4 @@ Meu nome é Clara Borges✨
 ### Se quiser pode entrar em contato comigo por aqui
 claraborgi@gmail.com
 
-![](https://tenor.com/bGEEq.gif)
+![](https://tenor.com/bGEEq.gif)[]
